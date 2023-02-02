@@ -3,7 +3,7 @@
 
 <p align="center"><img width="700" alt="belloga_chracter" src="https://user-images.githubusercontent.com/35598710/215764626-7505e911-5394-48f5-a928-d1d988dcb2b9.png"></p>
 
-### 밸로가 소개
+### 벨로가 소개
 **평범한 알람 대신 맛있는 미션 알람으로 일어나자!**
 
 아침에 알람만 끄고 주무시는 분을 위해 벨로가에서 미션을 준비했어요.<br/>
